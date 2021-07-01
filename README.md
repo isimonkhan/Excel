@@ -1,1 +1,1 @@
-# This file is a Challan & memo sample
+# This file is a shop memo
